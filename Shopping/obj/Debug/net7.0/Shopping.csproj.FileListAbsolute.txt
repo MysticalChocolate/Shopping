@@ -1,0 +1,14 @@
+D:\dev\Software Arch\Shopping\Shopping\obj\Debug\net7.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Software Arch\Shopping\Shopping\obj\Debug\net7.0\Shopping.AssemblyInfoInputs.cache
+D:\dev\Software Arch\Shopping\Shopping\obj\Debug\net7.0\Shopping.AssemblyInfo.cs
+D:\dev\Software Arch\Shopping\Shopping\obj\Debug\net7.0\Shopping.csproj.CoreCompileInputs.cache
+D:\dev\Software Arch\Shopping\Shopping\bin\Debug\net7.0\Shopping.exe
+D:\dev\Software Arch\Shopping\Shopping\bin\Debug\net7.0\Shopping.deps.json
+D:\dev\Software Arch\Shopping\Shopping\bin\Debug\net7.0\Shopping.runtimeconfig.json
+D:\dev\Software Arch\Shopping\Shopping\bin\Debug\net7.0\Shopping.dll
+D:\dev\Software Arch\Shopping\Shopping\bin\Debug\net7.0\Shopping.pdb
+D:\dev\Software Arch\Shopping\Shopping\obj\Debug\net7.0\Shopping.dll
+D:\dev\Software Arch\Shopping\Shopping\obj\Debug\net7.0\refint\Shopping.dll
+D:\dev\Software Arch\Shopping\Shopping\obj\Debug\net7.0\Shopping.pdb
+D:\dev\Software Arch\Shopping\Shopping\obj\Debug\net7.0\Shopping.genruntimeconfig.cache
+D:\dev\Software Arch\Shopping\Shopping\obj\Debug\net7.0\ref\Shopping.dll
